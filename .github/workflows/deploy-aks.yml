@@ -1,0 +1,2 @@
+with:
+  creds: ${{ secrets.AZURE_CREDENTIALS }}
